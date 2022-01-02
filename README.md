@@ -43,3 +43,4 @@ Now tests are ready for the run!
 - **Features/steps** folder - includes classes with Steps definitions for all pages and common class with initialization for Chrome
 - **Features/steps/PageObjects** folder -includes classes with Page Objects for all pages
 New Test can be added in Feature folder with extension **.feature**
+- **ChallengeFolder** folder - includes PDF files for 2 next challenges. 
